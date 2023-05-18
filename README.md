@@ -22,7 +22,6 @@
 <a href="https://stackoverflow.com/users/20650417/tripleflacko">
   <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-
 <a href="https://live.xbox.com/en-US/Profile?Gamertag=GDark1230">
   <img align="center" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />
 </a>
