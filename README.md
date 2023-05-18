@@ -24,5 +24,5 @@
 </a>
 </p>
 
-<table align="center"><thead><tr><th class="tablestats" style="background-color:#FFF;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" style="max-width: 100%;"></a></th>
-<th class="tablestats" style="background-color:#000;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true" style="max-width: 100%;"></a></th></tr></thead></table>
+<table align="center"><thead><tr><th class="tablestats" style="background-color:#FFF;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub Stats" style="max-width: 100%;"></a></th>
+<th class="tablestats" style="background-color:#000;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" style="max-width: 100%;"></a></th></tr></thead></table>
