@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=#33000000" alt="GitHub Stats" style="max-width: 100%;">
   </a>
   <th></th>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true" style="max-width: 100%;">
