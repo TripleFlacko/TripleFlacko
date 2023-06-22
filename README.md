@@ -10,13 +10,11 @@
   <a href="https://stackoverflow.com/users/20650417/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;">
-  </a>
+<div align="center">
+  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
   <th></th>
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;">
-  </a>
-</p>
+  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/TripleFlacko/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
