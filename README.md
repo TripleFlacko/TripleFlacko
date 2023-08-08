@@ -13,7 +13,7 @@
 <p></p>
 
 <div align="center">
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
+  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;"></a>
   <th></th>
   <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
 </div>
