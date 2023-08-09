@@ -25,4 +25,5 @@
   <a href="https://github.com/TripleFlacko/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://github.com/TripleFlacko/"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"></a> 
   <a href="https://github.com/TripleFlacko/"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress"></a>
+  <a href="https://github.com/TripleFlacko/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"></a>
 </div>
