@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png">
+  <a href="https://github.com/TripleFlacko/"><img src="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png"></a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ant0n-anton0v/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=%23ad03fc"/></a>
   <a href="https://www.instagram.com/tripleflacko_x/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=%23ad03fc"/></a>
@@ -11,17 +11,13 @@
   <a href="https://www.twitch.tv/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch&logoColor=%23ad03fc"/></a>
   <a href="https://stackoverflow.com/users/20650417/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stackoverflow-000?style=for-the-badge&logo=Stackoverflow&logoColor=%23ad03fc"/></a>
 </div>
-
-<p></p>
-
+<br>
 <div align="center">
- <img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;">
+  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
   <th></th>
-  <img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;">
+  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
 </div>
-
-<p></p>
-
+<br>
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=%23ad03fc" alt="C#"></a>
   <a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=%23ad03fc" alt=".NET"></a>
@@ -32,9 +28,8 @@
   <a href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=%23ad03fc" alt="Wordpress"></a>
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=Lua&logoColor=%23ad03fc" alt="LUA"></a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
-  
-
-
-  
-
+</div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="50">
 </div>
