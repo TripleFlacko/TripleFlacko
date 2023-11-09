@@ -1,5 +1,5 @@
-<div dlign="center">
-  <img stc="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png">
 </div>
 
 <div align="center">
