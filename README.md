@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/Anton.Anton0v/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=%23ad03fc"/></a>
-  <a href="https://discord.gg/YzEK9xBTPT" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=%23ad03fc"/></a>
   <a href="https://www.linkedin.com/in/ant0n-anton0v/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=%23ad03fc"/></a>
-  <a href="https://www.twitch.tv/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch&logoColor=%23ad03fc"/></a>
-  <a href="https://www.youtube.com/c/3RUNDark" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=%23ad03fc"/></a>
   <a href="https://www.instagram.com/tripleflacko_x/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=%23ad03fc"/></a>
+  <a href="https://www.facebook.com/Anton.Anton0v/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=%23ad03fc"/></a>
+  <a href="https://www.youtube.com/c/3RUNDark" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=%23ad03fc"/></a>
+  <a href="https://discord.gg/YzEK9xBTPT" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=%23ad03fc"/></a>
+  <a href="https://www.twitch.tv/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch&logoColor=%23ad03fc"/></a>
   <a href="https://stackoverflow.com/users/20650417/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stackoverflow-000?style=for-the-badge&logo=Stackoverflow&logoColor=%23ad03fc"/></a>
 </div>
 
