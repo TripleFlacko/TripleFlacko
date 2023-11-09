@@ -15,23 +15,23 @@
 <p></p>
 
 <div align="center">
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
+ <img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;">
   <th></th>
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
+  <img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;">
 </div>
 
 <p></p>
 
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=%23ad03fc" alt="C#"></a>
-  <a href="https://en.wikipedia.org/wiki/.NET"><img src="https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=%23ad03fc" alt=".NET"></a>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="https://img.shields.io/badge/MS%20SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23ad03fc" alt="MS SQL Server"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=%23ad03fc" alt="JavaScript"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=%23ad03fc" alt="HTML5"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=%23ad03fc" alt="CSS3"></a>  
-  <a href="https://en.wikipedia.org/wiki/WordPress"><img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=%23ad03fc" alt="Wordpress"></a>
-  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=Lua&logoColor=%23ad03fc" alt="LUA"></a>
-  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=%23ad03fc" alt="C#"></a>
+  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=%23ad03fc" alt=".NET"></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MS%20SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23ad03fc" alt="MS SQL Server"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=%23ad03fc" alt="JavaScript"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=%23ad03fc" alt="HTML5"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=%23ad03fc" alt="CSS3"></a>  
+  <a href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=%23ad03fc" alt="Wordpress"></a>
+  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=Lua&logoColor=%23ad03fc" alt="LUA"></a>
+  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
   
 
 
