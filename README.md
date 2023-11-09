@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/TripleFlacko/"><img src="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/TripleFlacko/TripleFlacko/main/banner.png"></a>
 </div>
 <br>
 <div align="center">
@@ -13,9 +13,9 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api?username=tripleflacko&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400px&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"></a>
   <th></th>
-  <a href="https://github.com/TripleFlacko/"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-tripleflacko.vercel.app/api/top-langs/?username=tripleflacko&layout=compact&theme=midnight-purple&hide_border=true&card_width=400px" style="max-width: 100%;"></a>
 </div>
 <br>
 <div align="center">
@@ -31,5 +31,5 @@
 </div>
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="50">
+<a href="#"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="50"></a>
 </div>
