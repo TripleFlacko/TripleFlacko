@@ -25,7 +25,8 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=%23ad03fc" alt="JavaScript"></a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=%23ad03fc" alt="HTML5"></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=%23ad03fc" alt="CSS3"></a>  
-  <a href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress&logoColor=%23ad03fc" alt="Wordpress"></a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=%23ad03fc" alt="Linux"></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_(computing)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=Shell&logoColor=%23ad03fc" alt="Shell"></a>
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=Lua&logoColor=%23ad03fc" alt="LUA"></a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
 </div>
