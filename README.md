@@ -31,7 +31,7 @@
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
 </div>
 <div align="center">
-  <a href="https://tripleflacko.github.io/"><img src="portfolio-button.png" height="80" width="160"></a>
+  <a href="https://tripleflacko.github.io/" target="_blank"><img src="portfolio-button.png" height="80" width="160"></a>
 </div>
 <br>
 <div align="center">
