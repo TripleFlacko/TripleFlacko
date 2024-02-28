@@ -30,10 +30,10 @@
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=Lua&logoColor=%23ad03fc" alt="LUA"></a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=%23ad03fc" alt="Adobe Photoshop"></a>
 </div>
-<br>
 <div align="center">
-  <a href="https://tripleflacko.github.io/"><img src="portfolio-button.png" height="100" width="200"></a>
+  <a href="https://tripleflacko.github.io/"><img src="portfolio-button.png" height="80" width="160"></a>
 </div>
+<br>
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="50" width="50"></a>
 </div>
