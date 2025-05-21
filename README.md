@@ -3,7 +3,6 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ant0n-anton0v/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=%23ad03fc"/></a>
   <a href="https://www.instagram.com/tripleflacko/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=%23ad03fc"/></a>
   <a href="https://www.facebook.com/tripleflacko.x/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=%23ad03fc"/></a>
   <a href="https://www.youtube.com/@TripleFlacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=%23ad03fc"/></a>
