@@ -9,7 +9,6 @@
   <a href="https://www.youtube.com/@TripleFlacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=%23ad03fc"/></a>
   <a href="https://discord.gg/Q4ZPF7Kmn4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=%23ad03fc"/></a>
   <a href="https://www.twitch.tv/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch&logoColor=%23ad03fc"/></a>
-  <a href="https://stackoverflow.com/users/20650417/tripleflacko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stackoverflow-000?style=for-the-badge&logo=Stackoverflow&logoColor=%23ad03fc"/></a>
 </div>
 <br>
 <div align="center">
